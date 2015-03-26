@@ -1,10 +1,10 @@
 
-# Ruby
+# Learn Ruby with RTanque
 
-From the terminal, pop in:
+Sergio Revilla - [@elreplicante](http://twitter.com/elreplicante)
 
-  ```yo reveal:slide "Slide Title"```
+Luis Mahiques - [@chapuzzo](http://twitter.com/chapuzzo)
 
-Available options:
+[@noflopsquad](http://twitter.com/noflopsquad)
 
- ```--markdown --attributes --notes```
+[@devscola](http://twitter.com/devscola)

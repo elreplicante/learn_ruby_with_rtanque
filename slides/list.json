@@ -1,1 +1,11 @@
-["index.md"]
+[
+    "index.md",
+    "intro-ruby.md",
+    "as-in-java.md",
+    "rather-than-java.md",
+    "rather-than-java-2.md",
+    "empty-class.md",
+    "example-class.md",
+    "run-rtanque.md",
+    "documentation.md"
+ ]
